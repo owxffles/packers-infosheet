@@ -32,6 +32,11 @@
     border: 2px solid #FFB612;
 }
 
+hr {
+    border-color: #FFB612;
+    border-radius: 1px;
+    color: #FFB612;
+}
 
 
 
